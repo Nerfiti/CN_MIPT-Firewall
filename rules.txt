@@ -1,0 +1,8 @@
+dst_ip=8.8.8.8
+src_ip=8.8.8.8
+proto=UDP
+src_port=23
+dst_port=23
+# This is comment
+? This is comment too xD
+ALLOW

@@ -1,0 +1,6 @@
+GET /admin
+POST /login
+Host: example.com
+User-Agent: BadBot
+Content-Type: application/x-www-form-urlencoded
+DROP
